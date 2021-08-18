@@ -8,6 +8,10 @@ public class CalculatorDevelopment {
 		System.out.println("Subtraction");
 		
 		System.out.println("multiplication");
+		
+		System.out.println("division");
+		
+		
 
 	}
 
