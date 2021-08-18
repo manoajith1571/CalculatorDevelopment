@@ -4,6 +4,8 @@ public class CalculatorDevelopment {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Addition");
+		
+		System.out.println("Subtraction");
 
 	}
 
